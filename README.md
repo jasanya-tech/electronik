@@ -4,13 +4,19 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Git clone kedalam leptop kalian dengan cara ketik di terminal git bash
+```bash
+git clone https://github.com/jasanya-tech/electronik.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+setelah clone ketikan perintah berikut pada leptop kalian
+```bash
+cd electronik
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+kemudian 
+```bash
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+dan terakhir buka visual studio code dan runing program seperti biasa pada file main.dart
